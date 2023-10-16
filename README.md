@@ -1,4 +1,4 @@
-# Heart_failure_ANN_Model
+# Heart_Failure_using_ANN_Model
 
 "Revolutionize Heart Health with Cutting-Edge AI Predictions 🩺🔮
 
